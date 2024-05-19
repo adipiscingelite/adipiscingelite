@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syaiful
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syaiful Rahmatdani
 ===============================================================================================================================
 
 Student
 -------
 
-I am a student studying web programming
+Hello! I am a student currently learning web programming. Here, I share the projects that I have developed during my learning process.
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * 🖥️  See my portfolio at [MyPortofolio](http://adipiscingelite.github.io/belajar-vue)
