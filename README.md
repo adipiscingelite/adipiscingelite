@@ -7,7 +7,7 @@ Student
 Hello! I am a student currently learning web programming. Here, I share the projects that I have developed during my learning process.
 
 * 🌍  I'm based in Yogyakarta, Indonesia
-* 🖥️  See my portfolio at [MyPortofolio](http://adipiscingelite.github.io/belajar-vue)
+* 🖥️  See my portfolio at [MyPortofolio](http://adipiscingelite.github.io/portofolio)
 * 🧠  I'm learning Golang
 * ⚡  Any
 
