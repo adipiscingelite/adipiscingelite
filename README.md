@@ -8,8 +8,8 @@ Hello! I am a student currently learning web programming. Here, I share the proj
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * 🖥️  See my portfolio at [MyPortofolio](http://adipiscingelite.github.io/portofolio)
-* 🧠  I'm learning Golang
-* ⚡  Any
+* 🧠  I'm currently learning Angular and Golang
+* ⚡  Laravel 🔥🔥🔥
 
 <a href="https://www.github.com/adipiscingelite" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adipiscingelite?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
